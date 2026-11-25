@@ -1,2 +1,2 @@
-# vol_forecast
-This repo will focus on developing and testing various volatility forecasting methodologies.
+# Derivatives Pricer and Hedger
+This project focuses on calculating the price of certain derivatives given a dataset of synthetic data. Then, it will calculate the relevant payoffs, greeks and relative metrics.
